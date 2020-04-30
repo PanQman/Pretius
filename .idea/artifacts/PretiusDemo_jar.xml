@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PretiusDemo:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/PretiusDemo_jar</output-path>
+    <root id="archive" name="PretiusDemo.jar">
+      <element id="module-output" name="PretiusDemo" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/commons-io/commons-io/2.4/commons-io-2.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/directory/studio/org.apache.commons.io/2.4/org.apache.commons.io-2.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/tika/tika-core/1.24.1/tika-core-1.24.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
